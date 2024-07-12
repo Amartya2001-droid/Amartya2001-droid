@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 I'm Amartya (he/him) - I'm a fullstack developer, designer, moderator, and a student. I'm interested in development, moderation,
 and building thriving online communities. I work on random projects in my free time. Also I love to travel.
-## 🌱 I’m currently learning Maven.
+## 🌱 I’m currently learning Maven and Selenium.
 
 ## Connect with me:
   <a href="https://www.linkedin.com/in/amartyakarmakar/" target="blank">
